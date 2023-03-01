@@ -13,10 +13,10 @@ _es necesario instalar las dependencias para inicar el proyecto_
 npm install react tailwindcss postcss autoprefixer flowbite flowbite-react react-router-dom react-hook-form react-toastify
 ```
 ### created with 🧱
-- [react] - Una biblioteca de JavaScript para construir interfaces de usuario.
+- [react] - Un framework de JavaScript para construir interfaces de usuario.
 - [tailwind css] - A utility-first CSS framework packed with classes.
 - [headlessui/react] - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [firebase] - Firebase is a Backend-as-a-Service (Baas).
+- [firebase] - data base and server .
 - [node.js] - is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [flowbite] - Tailwind CSS Components
 - [flowbite-react] - Tailwind CSS Components
