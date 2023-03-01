@@ -1,4 +1,4 @@
-# Proyecto Final - Coder House 👾
+# Proyecto Final - Coder House 📚
 ##### ⚛️Curso: React Js 
 ##### 👨‍💻Profesor: Francisco Pugh
 ##### 👨‍🎓Desarrollador: Leandro Franco
