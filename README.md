@@ -1,8 +1,8 @@
 # Proyecto Final - Coder House ⚛️
-##### 📚Curso: React Js 
-##### 👨‍💻Profesor: Francisco Pugh
-##### 👨‍🎓Desarrollador: Leandro Franco
-##### 🎥video: https://www.youtube.com/watch?v=UU13aPNdLHc&ab_channel=Leandrofranco
+##### 📚 Curso: React Js 
+##### 👨‍💻 Profesor: Francisco Pugh
+##### 👨‍🎓 Desarrollador: Leandro Franco
+##### 🎥 video: https://www.youtube.com/watch?v=UU13aPNdLHc&ab_channel=Leandrofranco
 
 
 ### dependencies 🛠️
