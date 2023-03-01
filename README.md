@@ -4,26 +4,26 @@
 ##### 👨‍🎓Desarrollador: Leandro Franco
 
 ### dependencies 🛠️
-- [react] - HTML enhanced for web apps!
-- [tailwind css] - awesome web-based text editor
-- [headlessui/react] - Markdown parser done right. Fast and easy to extend.
-- [firebase] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [flowbite] - fast node.js network app framework [@tjholowaychuk]
-- [flowbite-react] - the streaming build system
-- [react-dom] - the streaming build system
-- [react-hook-form] - the streaming build system
-- [react-toastify] -
+- [react] - Una biblioteca de JavaScript para construir interfaces de usuario.
+- [tailwind css] - A utility-first CSS framework packed with classes.
+- [headlessui/react] - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [firebase] - Firebase is a Backend-as-a-Service (Baas).
+- [node.js] - is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [flowbite] - Tailwind CSS Components
+- [flowbite-react] - Tailwind CSS Components
+- [react-router-dom] - una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario 
+- [react-hook-form] - simple react forms validation
+- [react-toastify] - libreria de notificaciones 
    
-   [react]: <https://github.com/joemccann/dillinger.git>
-   [tailwind css]: <http://daringfireball.net>
-   [headlessui/react]: <http://daringfireball.net/projects/markdown/>
-   [firebase]: <https://github.com/markdown-it/markdown-it>
-   [flowbite]: <http://ace.ajax.org>
+   [react]: <https://es.reactjs.org/>
+   [tailwind css]: <https://tailwindcss.com/>
+   [headlessui/react]: <https://headlessui.com/>
+   [firebase]: <https://console.firebase.google.com/u/0/project/ecommerce-react-coder-11bdc/overview?hl=es-419>
+   [flowbite]: <https://flowbite.com/>
    [node.js]: <http://nodejs.org>
-   [flowbite-react]: <http://twitter.github.com/bootstrap/>
-   [react-dom]: <http://jquery.com>
-   [react-hook-form]: <https://react-hook-form.com>
-   [react-toastify]: <http://expressjs.com>
+   [flowbite-react]: <https://flowbite-react.com/>
+   [react-router-dom]: <https://reactrouter.com/en/main>
+   [react-hook-form]: <https://react-hook-form.com/>
+   [react-toastify]: <https://www.npmjs.com/package/react-toastify>
 
 
