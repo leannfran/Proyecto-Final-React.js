@@ -4,20 +4,13 @@
 ##### 👨‍🎓Desarrollador: Leandro Franco
 
 ### dependencies 🛠️
-   
-    "react",
-    "@tailwind.css",
-    "@headlessui/react",
-    "autoprefixer",
-    "firebase",
-    "flowbite",
-    "flowbite-react",
-    "postcss",
-    "react-dom",
-    "react-hook-form": https://react-hook-form.com/ ,
-    "react-icons",
-    "react-router-dom",
-    "react-toastify",
+- [react] - HTML enhanced for web apps!
+- [Ace Editor] - awesome web-based text editor
+- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [node.js] - evented I/O for the backend
+- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Gulp] - the streaming build system
    
    [react]: <https://github.com/joemccann/dillinger.git>
    [tailwind css]: <http://daringfireball.net>
