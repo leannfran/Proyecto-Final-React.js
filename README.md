@@ -4,7 +4,7 @@
 ##### 👨‍🎓 Desarrollador: Leandro Franco
 ##### 🎥 video: https://www.youtube.com/watch?v=UU13aPNdLHc&ab_channel=Leandrofranco
 
-###### _este es el proyecto final del curso de react js, un e commerce funcional.
+###### _este es el proyecto final del curso de react js, un e commerce funcional._
 
 
 ### dependencies 🛠️
