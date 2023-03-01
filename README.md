@@ -3,6 +3,7 @@
 ##### 👨‍💻 Profesor: Francisco Pugh
 ##### 👨‍🎓 Desarrollador: Leandro Franco
 ##### 🎥 video: https://www.youtube.com/watch?v=UU13aPNdLHc&ab_channel=Leandrofranco
+##### 🔗 Link:https://proyecto-final-react-js-omega.vercel.app/
 
 ###### _este es el proyecto final del curso de react js, un e commerce funcional._
 
