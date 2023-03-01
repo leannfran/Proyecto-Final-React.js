@@ -9,7 +9,7 @@ const Navbar = () => {
         <Menu />
 
         <h1 className="text-2xl text-white font-bold hover:text-primary transition">
-          <Link to={"/"}>FronFitnes</Link>
+          <Link to={"/"}>FronFitness</Link>
         </h1>
 
           <CartWidget />
