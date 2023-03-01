@@ -5,12 +5,15 @@
 
 ### dependencies 🛠️
 - [react] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [tailwind css] - awesome web-based text editor
+- [headlessui/react] - Markdown parser done right. Fast and easy to extend.
+- [firebase] - great UI boilerplate for modern web apps
 - [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
+- [flowbite] - fast node.js network app framework [@tjholowaychuk]
+- [flowbite-react] - the streaming build system
+- [react-dom] - the streaming build system
+- [react-hook-form] - the streaming build system
+- [react-toastify] -
    
    [react]: <https://github.com/joemccann/dillinger.git>
    [tailwind css]: <http://daringfireball.net>
