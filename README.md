@@ -10,7 +10,7 @@
 ### dependencies 🛠️
 _es necesario instalar las dependencias para inicar el proyecto_
 ```
-npm i react 
+npm install react tailwindcss postcss autoprefixer flowbite flowbite-react react-router-dom react-hook-form react-toastify
 ```
 - [react] - Una biblioteca de JavaScript para construir interfaces de usuario.
 - [tailwind css] - A utility-first CSS framework packed with classes.
