@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/ecommerce-react-coder-11bdc.appspot.com/o/Fondo%20de%20pantalla%20para%20pc%20Frase%20motivacional%20Azul%20y%20blanco%20(1).png?alt=media&token=75626630-c4df-4e4a-a0f6-d6808a14df93");
+}
+
+.hero2{
+background-image: url(../public/img/Web_Photo_Editor.jpg);
+}
