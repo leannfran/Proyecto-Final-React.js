@@ -1,5 +1,5 @@
 # Proyecto Final - Coder House ⚛️
-##### ⚛️📚Curso: React Js 
+##### 📚Curso: React Js 
 ##### 👨‍💻Profesor: Francisco Pugh
 ##### 👨‍🎓Desarrollador: Leandro Franco
 
@@ -14,7 +14,7 @@
     "flowbite-react",
     "postcss",
     "react-dom",
-    "react-hook-form",
+    "react-hook-form" "https://react-hook-form.com/",
     "react-icons",
     "react-router-dom",
     "react-toastify",
