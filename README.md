@@ -14,7 +14,7 @@
     "flowbite-react",
     "postcss",
     "react-dom",
-    "react-hook-form" "https://react-hook-form.com/",
+    "react-hook-form" ["https://react-hook-form.com/",](https://react-hook-form.com/)
     "react-icons",
     "react-router-dom",
     "react-toastify",
